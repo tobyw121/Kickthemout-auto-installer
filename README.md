@@ -6,7 +6,7 @@ Kickthemout auto installer script
  
  simple Method:
  
-* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"` 
+* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Kickthemout-auto-installer/main/kickthemout.sh)"` 
 
  cumbersome Method :
 
