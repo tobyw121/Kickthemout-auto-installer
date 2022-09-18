@@ -1,16 +1,21 @@
 # Kickthemout-auto-installer
 Kickthemout auto installer script
 
+#
+ How to use ?
+ 
+ simple Method:
+ 
+* `bash -c "$(curl -fsSL https://raw.githubusercontent.com/tobyw121/Snap-Remover/main/Snap-Remover.sh)"` 
 
-1.step 
-download the script
+ cumbersome Method :
 
-2.step
-execute the installer  script with this command : sudo chmod 777 kickthemout.sh
-and open with ./kickthemout.sh
+* `sudo apt install git`
+* `git clone https://github.com/tobyw121/Kickthemout-auto-installer.git`
+* `cd Kickthemout-auto-installer`
+* `sudo chmod 777 kickthemout.sh`
+* `./kickthemout.sh`
+* `./run.sh`
+#
 
-3.step
-for quick run 
-execute the run.sh script with with this command : sudo chmod 777 run.sh
-and open with ./run.sh
 
